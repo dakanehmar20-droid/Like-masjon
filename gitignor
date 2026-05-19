@@ -1,0 +1,6 @@
+token_me.json
+accounts.txt
+bot_messages.json
+__pycache__
+*.pyc
+.vercel
